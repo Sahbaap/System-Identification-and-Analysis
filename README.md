@@ -7,5 +7,5 @@ a linear MIMO system with two inputs and two outputs. There are five main tasks:
 Find A, B, C, D matrices based on the observed impulse response so that:
 
 <p align="center">
-<img style="float: center;" src="Figures\Eq1.jpg">
+<img style="float: center;" src="Figures/Eq1.jpg">
 <p>
